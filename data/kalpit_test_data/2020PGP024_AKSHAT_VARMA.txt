@@ -1,0 +1,72 @@
+an
+Akshat Varma bl
+Male, 24 years
+EDUCATIONAL QUALIFICATIONS
+U1. 0. a. Sen
+IIM INDORE
+MBA Indian Institute of Management, Indore - 2022
+B.Tech, Material Science and Engg Indian Institute of Technology, Kanpur 6.9/10.0
+Class XII, ISC Smt. Sulochanadevi Singhania School, Thane 96.00%
+Class X, ICSE Smt. Sulochanadevi Singhania School, Thane 96.14% 2012
+ACADEMIC & CO-CURRICULAR ACHIEVEMENTS
+=" Ranked among the top 3% with AIR 3748 in JEE Advance Examination amongst 1,26,000+ participants who took the exam 2014
+" Secured International Rank 167 and State Rank 10 in the International Mathematics Olympiad organised by SOF (Class XI!) 2014
+" Placed 481* Internationally and achieved State Rank 51 in the National Science Olympiad organised by SOF (Class XII) 2014
+* Secured 9" place in Level-Il of Mathematics Olympiad organised by the Indian Institute of Technology, Bombay 2014
+= Placed in top 10% of the National Standard Examination in Physics among 39,000+ candidates across 761 test centres 2014
+= Performed among the top 1% in Class XII Board & qualified for scholarship under the INSPIRE scheme for higher education | 2014
+= Awarded the most coveted Lala Kailaspat Singhania Gold Medal for being the Most Outstanding Student of batch, ISC 2014
+= Awarded Special Prize in appreciation of meritorious performance in the Maharashtra Talent Search Examination 2012
+PROFESSIONAL EXPERIENCE 09 months
+Roles &
+Responsibilities
+Indus Insights, Gurugram Associate May ’19 —Jan ’20
+= Collaborated with a lending firm from the U.K wanting to expand in the U.S to develop a risk prediction model
+Objective of the statistical credit risk model was to predict the propensity of an applicant going bankrupt
+Worked with R and SPSS Modeler to obtain the final model which also incorporated 10-fold cross validation
+Targeted people that tend to have higher activity, utilization, balance and revolve rates on their cards
+Analysed data using SQL and filtered population portraying the desired tendency to obtain utilization metrics
+Designed dashboards on Tableau to interpret and analyse user trends and develop a target strategy for client
+Audited and analysed separate classification models for consumers and businesses for a leading Indian NBFC
+Engineered & rolled-up 500+ features and attributes followed by machine learning procedures & development
+Developed a model as a challenger for the existing model which improved results on the overall client data
+Designed an exhaustive automated engine for implementing regression, decision trees and other algorithms
+Incorporated user-friendly features; all which could be further customized by user based on necessity & need
+Worked in a team of 5 and coded up modules which were then collated to ensure smooth flow of the algorithm
+Responsible for handling & suggesting improvements & bug-fixes upon public release of the automation tool
+PROJECTS & RESEARCH PAPERS
+Academic
+Projects
+Concept Rickshaw Aug “15 —Nov ‘15
+" Designed and fabricated a 300 x 200 x 200 (mm) miniature design for the cycle rickshaw on a scale of 1:10
+=" Handled mechanical tools & techniques like welding, pressing, rolling etc. to manufacture parts of the model
+" Awarded the 2" Best Project by three instructors amongst 30+ projects made by fellow students of the batch
+Card Shuffling Machine Jan ’16 - Apr ‘16
+= Studied designs of existing mechanical card shuffling machines and obtained an optimized design
+= Built and shaped gears and shafts using the Milling and Lathe machines to obtain a working model
+= Final mechanical card shuffling model was capable of shuffling up to two full decks of playing cards
+POSITIONS OF RESPONSIBILITY
+IIT Kanpur
+School
+Event Co-ordinator, Athletics Jul’15 —Sep ‘15
+=" Managed and lead a 2-tier team of 15+ secretaries and 30+ volunteers to organize and conduct events
+=" Scheduled 30+ athletic events and contacted over 50 colleges from across the country to be a part of the event
+Secretary, Synchronicity Apr ’15 — Oct ‘15
+=" Connected with 750+ bands across the country, inviting participation & convincing them to be part of the fest
+=" Organized venues in Delhi and Kolkata for the preliminary round of the final event to be held in the institute
+Prefect, Ganga House Aug ’08 — Aug ‘09
+= Elected as the Prefect for my House in school through meritorious performance and courteous demeanour
+= Led and directed the efforts and activities of the 4700+ student body of the school being part of the Senate
+EXTRA-CURRICULAR ACTIVITIES
+Sports
+=" Honoured with the title of Best Incoming Sportsperson of the institute in Athletics for the year 2014-2015
+=" Conferred the Individual Championship 5 times for excellent performance in track and field events across fests
+= Achieved 50+ medals across inter-college fests, national, state and district level competitions in Athletics
+Certifications
+=" Completed a course in Machine Learning offered by Stanford University on the online platform Coursera, 2018
+=" Completed 25-hour certification in Python for Data Science and Machine Learning on Udemy platform, 2020
+Interests
+=" Enthusiastic towards sports & believe that games help develop skills like planning, leadership and perseverance
+Indian Institute of Management Indore
+Tel: 0731 — 2439661-63 E-mail: placement@iimidr.ac.in
+

@@ -1,0 +1,103 @@
+Prateek Varshney
+Indian Institute of Technology Kanpur - Computer Science and Engineering
+0 (+91) 9868588504 | S%varshney@cse.iitk.ac.in | @pvarshney1729.github.io | OJpvarshney1729 | MH prateek-varshney
+Education
+Indian Institute of Technology Kanpur Kanpur, India
+BACHELOR OF TECHNOLOGY, MAJOR IN COMPUTER SCIENCE AND ENGINEERING
+MINORS IN COGNITIVE SCIENCE AND INDUSTRIAL MANAGEMENT & ENGINEERING 2017 - Present
+Cum. GPA: 9.44/10.0
+Hillwoods Academy Delhi, India
+ALL INDIA SENIOR SECONDARY CERTIFICATE EXAM (AISSCE) | PERCENTAGE: 95.8% 2016
+Hillwoods Academy Delhi, India
+ALL INDIA SECONDARY CERTIFICATE EXAM (AISCE) | CPI: 10.0/10.0% 2014
+Publications
+CS-NET at SemEval-2020 Task 4: Siamese BERT for ComVE Barcelona, Spain
+SOUMYA RANJAN DASH, SANDEEP ROUTRAY, PRATEEK VARSHNEY, ASHUTOSH Mob! Dec. 2020
+Accepted in the International Workshop on Semantic Evaluation 2020
+Honors & Awards
+2020 §S.N. Bose Scholarship, Among top 25 students in India USA
+2018 Academic Excellence Award, for exceptional academic performance in 2017-18 IIT Kanpur
+2017 Joint Entrance Exam (JEE) Advanced, Top 1.13% among 0.17 million candidates India
+2017 Joint Entrance Exam (JEE) Mains, Top 0.04% among 1.2 million candidates India
+2015 KVPY Scholarship Recipient, Indian Institute of Science and Government of India Bangalore
+2014 Allindia Rank 54, CBSE Group Mathematical Olympiad India
+Work Experience
+California Institute of Technology Pasadena, California
+RESEARCH SCHOLAR UNDER PROF. ANIMA ANANDKUMAR July 2020 - Present
+« Working on the interface of Game Theory/Mechanism Design and Deep Learning.
+Microsoft India (R&D), Bangalore Bangalore, India
+SOFTWARE ENGINEERING INTERN May. 2020 - Jul. 2020
+« Implemented an ADF pipeline for the Demand Forecasting Problem, which loaded inventory snapshots and
+deltas from ADLS Gen 2 storage, performed suitable transformations and various analytics algorithms.
+Performed Statistical Analysis and modelling on inventory data in Databricks to output useful insights.
+« Linked the ADLS Gen 2 storage to Azure Data Share and enabled cross subscription sharing of snapshots for
+transfer of data between the consumer storage and Open Logistics Platform platform in a scheduled fashion.
+« Linked the output ADLS Gen 2 storage to Power BI (Business Intelligence) to load the prediction data. Created
+an interactive dashboard for visualisation of the predictions and insights obtained.
+National University of Singapore Kent Ridge, Singapore
+VISITING RESEARCH SCHOLAR UNDER PROF. DJORDJE JEVDJIC May. 2019 - Jul. 2019
+* Contributed to the design of an open-source DNA-based archival storage tool.
+« Implemented a distributed and subquadratic algorithm to compute the underlying clusters in a DNA pool,
+which converged efficiently on real and synthetic datasets and was robust to outliers and high levels of noise.
+« Simulated the process of storing error-sensitive compressed image files into DNA reconstructing the image
+from noisy amplified DNA strands. Improved the accuracy of existing DNA Clustering Algorithms by 10%.
+Nutanix Summer of Code
+FULL STACK DEVELOPMENT PROJECT UNDER PROF. SANDEEP SHUKLA May 2018 - Jul. 2018
+« Developed Web App to provide 3rd Party Services, as a Messaging and Complaint Management Platform between the company and the end-user, which maintained records of each user’s queries & services consumed.
+* Technologies used: PHP, SQL Server database, reCAPTCHA API, Geo-location API, Microsoft Azure Cloud.
+SEPTEMBER 15, 2020 PRATEEK VARSHNEY - RESUME 1
+
+Projects
+Siamese BERT for Common Sense Reasoning and Validation Accepted Paper
+CS6980 TERM PROJECT UNDER PROF ASHUTOSH MODI Jan. 2020 - Mar. 2020
+« Proposed a system for Task 4: >Commonsense Validation and Explanation” of SemEval 2020, involving
+differentiating between natural language statements that confirm to common sense and those that do not.
+« Developed a Siamese model based on transformer neural network architecture, which was able to select the
+against common sense statement and identify the most crucial reason why a statement does not make sense.
+« Paper accepted at International Workshop on Semantic Evaluation 2020.
+Comparison of SGD Variants for Stochastic Optimization Term Paper
+EE609A TERM PROJECT UNDER PROF KETAN RAJAWAT Mar. 2020 - May 2020
+« Reproduced and extended the results of “On the Insufficiency of Existing Momentum Schemes for Stochastic
+Optimization” by Kidambi et al., published in ICLR 2018.
+« Showed experimentally that there exist simple stochastic problem instances where momentum based methods are sub-optimal and enjoy practical gains over SGD in deep learning applications due to minibatching.
+« Established that ASGD and Adam can converge faster than all other methods irrespective of Batch Sizes.
+GANs for scRNA sequences Delhi, India
+SELF PROJECT UNDER PROF. DEBARKA SENGUPTA, IIIT DELHI Dec. 2019 - Jan. 2020
+- Implemented a single cell RNA-seq data based Generative Adversarial Network (GAN) architecture.
+« The model learned non-linear gene-gene dependencies and used them to determine the missing cell states.
+DeCaptcha
+CS771 COURSE PROJECT Oct 2019
+« Used OpenCV for contour detection and image segmentation to break captcha into individual letters.
+« Trained a three-layer CNN model for character recognition on 2000 images with 99% accuracy on the test set.
+Smart Tutor
+PROJECT UNDER PROF. VIPUL ARORA Dec 2018 - Feb 2019
+« Worked on areview scheduling algorithm, using model-free reinforcement learning to learn a teaching policy.
+« Studied and contrasted three student learning environments: Ebbinghaus’ Curve, Half-life Regression, and
+Generalised Power Law; two teaching performance metrics and four baseline policies.
+Skills
+Programming C/C++, Python, R, Haskell, GNU Octave, Node.js, HTML, CSS, MySQL, MongoDB
+Deep Learning — Tensorflow, Pytorch, Scikit-Learn, Pillow, Keras, Numpy, Pandas, Matplotlib, Scipy, CNTK, OpenCV
+Utilities — Linux shell utilities, Git, Bash, GDB, ATX
+Mentorship Roles and Extra Curriculars
+Teaching Assistant INTRODUCTION To COMPUTING, PROF. BISWABANDAN PANDA Aug. 2020 - Present
+» Developed programming assignments, designed evaluation metrics, checked for plagiarism and assisted in
+checking of papers and quiz copies
+Academic Mentor CouNSELLING SERVICE, IIT KANPUR May 2018 - Jul. 2019
+« Mentored a Batch of 900+ freshmen in Introduction to Computing course via Institute Level Remedial Classes.
+« Conducted Doubt Clearing Sessions and provided intensive Individualized Mentoring to special needs
+students from diverse socio-economic backgrounds including limited English/Hindi-speaking students.
+Core Group Member Vox PoPuL! Oct. 2018 - Present
+* Team member of Vox Populi, the campus journalism society of IIT Kanpur
+Relevant Coursework
+Introduction to Programming Probability for Computer Science Real Analysis & Multivariate Calculus
+Introduction to Machine Learning Special Topics in NLP Convex Optimization in SP-COM
+Discrete Mathematics Operating Systems Compiler Design
+Computer Organization Modern Cryptology Data Structures and Algorithms
+Probabilistic Machine Learning4 Theory of Computation Philosophy of Cognitive Science
+Computational Genomics” Algorithms II” Stat. Simulation & Data Analysis*
+A: Audit, *: Ongoing
+Miscellaneous
+«Runner up Project, for design and fabrication of an Ornithopter, Introduction to Manufacturing Process (TA201).
+« Time to time volunteer and freelance as an Indian Sign Language Interpreter
+SEPTEMBER 15, 2020 PRATEEK VARSHNEY - RESUME 2
+

@@ -1,0 +1,56 @@
+VIJAY LATHER
+Senior Undergraduate Email : vijayla@iitk.ac.in
+Department of Mechanical Engineering Phone : +91-9138419962
+Academic Qualifications
+Year Degree/Certificate Institute CPI/%
+2017 - Present B.Tech Indian Institute of Technology, Kanpur 9.04/10
+2017 CBSE(XII) Mata Kasturi Devi Public School, Najafgarh 91.2%
+2015 CBSE(X) OP Jindal Modern School, Hisar 10/10
+Scholastic Achievements
+Secured All India Rank 1173 in JEE Advanced 2017 among the 1.7 Lakh shortlisted candidates. ( )
+Secured All India Rank 2612 among 1.5 million applicants in JEE Mains 2017 ( )
+Secured All India Rank 1062 in Kishore Vaigyanik Protsahan Yojana(KVPY) ( )
+Recipient of Sudarshan Kasturia Memorial Scholarship for exemplary academic performance (2019)
+Awarded A* grade for outstanding performance in ECO101A: Introduction to Economics at IIT Kanpur ( )
+Awarded A* gerade for outstanding performance in ME351A: Design of Machine Elements at IIT Kanpur ( )
+Professional Experience
+e Software Intern: Walmart Global Technology Services, India (14th, Apr,20 - 30th, Jun, 20)
+Project: Application to automate the Matcher Performance Numbers
+— Built a Spark application to automate the performance of matcher which was later deployed as a Jenkins job
+— Spark application consisted of a Java program which connects and query Hive, Cassandra and MySQL Databases
+— Used Gson Library to parse JSON and fetch required metrices for a dataset of about 5 millions items
+— Worked with JDBC Library to connect to MySQL database and store data directly using java program
+— Finally published a Tableau report to visualize the data from the MySQL database
+Key Projects
+e TA 202A: Steering and differential Mechanism (Jan’19-Apr’19)
+Mentor: Prof. Shantanu Bhattacharyat, Department of Mechanical Engineering
+— Created a CAD model of a miniature car with steering and differential mechanism using Autodesk Inventor
+— Used various machining techniques like Turning, Milling and Drilling to fabricate the mechanism with high precision
+e TA 201A: Towing Truck (Aug’18-Nov’18)
+Mentor: Prof. Sudhanshu Shekhar Singh, Department of Material Science and Engineering.
+— Created a CAD model of a miniature truck which can tow vehicles using Autodesk Inventor
+— Built and assembled all required parts using processes like Brazing, Casting, Welding etc.
+Technical Skills
+e Programming Languages: C, C++, Python, R, Java, TeX, MATLAB, SQL
+e Software and Tools: Tableau Desktop, Microsoft Office ,Autodesk Inventor, Fusion 360, Solid Works, Eclipse IDE
+e Database: MySQL, Apache Cassandra, Apache Hive
+Relevant Courses
+Introduction to Machine Learning* (Ongoing) Data Structure and Algorithms
+Data Mining and Knowledge Discovery* (Ongoing) Probability and Statistics
+Introduction to Stocastic Processes and their Applications Operation Research for Management* (Ongoing)
+Introduction to Mathematical Economics Introduction to Economics
+Fundamentals of Computing Macroeconomics* (Ongoing)
+Positions of Responsibility
+e Manager, Megaworld Techkriti’19 (2018-19)
+— Part of a 5-membered apex executive team responsible for organizing Megaworld in Techkriti, Asia’s Largest Tech fest
+— Organized 7 events as a part of megaworld that witnessed a participation of 1000+ students over a course of 3 days
+e Manager, Freshers night’18 (Jul’18-Aug’18)
+— Part of a 5-membered apex executive team responsible for organizing Freshers for 1000+ new incoming students
+— Responsible for finalizing schedule, taking permissions and raised a sum of 15000 INR from sponsorship from local vendors
+e Senior Executive, Ritambhara Antaragni’18 (Jun’18-Oct’18)
+— Approached 50+ companies for sponsorship and media coverage; witnessed a participation of 150+ students in flagship event
+Extra-Curricular Activities
+e Volunteered for NCC; participated in parades, firing activities and organized blood donation camp on Independence day
+e Responsible for managing security in Techkriti and Udghosh for successful completion of fests
+e Secured First runner up position in Descon in Takneek’17, the intra-IITK Science and Technology Championship
+

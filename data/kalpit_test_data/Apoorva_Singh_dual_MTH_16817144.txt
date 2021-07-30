@@ -1,0 +1,68 @@
+APOORVA SINGH % singh.apoorva.0803@gmail.com  +91-9415390833
+EDUCATION
+YEAR QUALIFICATION INSTITUTION CGPA/PERCENTAGE
+2016-21 BS-MS, Mathematics and Scientific Computing Indian Institute of Technology Kanpur PG: 9.0/10 | UG: 6.9/10
+2016 Class XII (ISC) City Montessori School Lucknow 97.25%
+2014 Class X (ICSE) City Montessori School Lucknow 96.6%
+ACHIEVEMENTS
+e Secured a summer internship offer from Gartner Research and Advisory India on the first day of the internship drive 2019-20
+Awarded with a Certificate of Exemplary Leadership by DOSA, IITK for recognition as an Overall Placement Coordinator, 2019-20
+e Recipient of the INSPIRE Scholarship for the past three years by the Department of Science & Technology, Government of India
+e Received a Pre-Placement Offer from Schlumberger Pune India Technology Centre for outstanding performance during the internship
+e Received the Bhagwan Das Sanghi Memorial Scholarship, awarded to a girl student with the highest departmental CPI at the end of first year
+PROFESSIONAL EXPERIENCE
+Software Development
+Google India - Software Product Sprint Jul’20 — Aug’20
+e To design and deploy an interactive personal portfolio supporting images, comments, and a sentiment analysis feature
+Objectives . . wae re ; : .
+J e Tocreate a dashboard and a chatbot for visualizing statistical information for Covid-19 and to answer general queries
+e Built a system for detecting binary emotions in a user entered message by utilizing Google’s Sentiment Analysis API
+Result e Designed and trained a chatbot supporting 99 intents for answering queries related to Covid-19 using Dialogflow API
+e Used the JHU CSSE Covid-19 dataset to build a dashboard for comparing and analyzing statistical data with Chart.js
+Data Science
+OTO Capital - Data Science Internship Apr’20 — Jul’20
+To design models for predicting life of various motorcycle parts using driving behavior collected from android sensors
+Objectives . . ‘ s 58 5
+J e To analyze user driving patterns using data collected from android sensors and classify driving behavior as safe or unsafe
+e Performed web scraping of various informational websites using Selenium to create a library of relevant review articles
+Result e Conducted a literature survey of various models that are used to predict life of parts of a two-wheeler, given trip data
+e Analyzed trip data for a user and modelled formulae for life of clutch, air filter, mileage using acceleration, speed etc.
+Schlumberger Pune India Technology Centre - Data Science Internship May’19 —Jul’19
+Objective e Toenhance the extraction of profitable clauses from scanned copies of contracts by improving upon OCR performance
+e Implemented the Faster R-CNN algorithm using TensorFlow Object Detection API to detect signatures and stamps
+Approach e Used image processing techniques on scanned images to reduce noise, remove highlights, and correct the text skew
+e Used OpenCV to implement the Hough Line Transform method on an image to detect and remove tabular data
+e OCR speed improved by 25% per page, saving 150 seconds on an average to process a 200-page contract
+Impact e Tables can be removed from a contract with an accuracy of 94%, hence preventing processing of garbage text
+e The object detection module can correctly identify stamps and signatures in images with an accuracy of 92%
+Tutoring
+Demux Academy — Algorithms Tutor and Technical Content Creator May’20 — Jul’20
+e Mentored over 200 students in their pre-final and final year of various colleges across India online on data structures
+Responsibilities e Coordinated with the design team to create content for data structures and algorithms to be used in the online classes
+e Conducted one-on-one mock interview (coding) sessions with the students and gave them personalised feedback
+PROJECTS
+e Order Estimation of Complex Sinusoidal Signal Processing Models — MS Project (Prof. Amit Mitra, IIT Kanpur) ongoing
+e Case Study of the Ola Pedal Initiative - Course Project, Market Research (Prof. Shankar Prawesh, IIT Kanpur) Feb’20 — Apr’20
+e Machine Comprehension Using Commonsense and Script Knowledge — Course Project (Prof. Ashutosh Modi, IIT Kanpur) Jan’20 — Mar’20
+e Curriculum Learning — Course Project, Intro to Machine Learning (Prof. Piyush Rai, IIT Kanpur) Sep’18 — Nov’18
+TECHNICAL SKILLS
+Programming Languages — C, C++, Python, Java, SQL Software & Libraries — MATLAB, LaTeX, Pandas, NumPy, Scikit-Learn, TensorFlow, OpenCV
+POSITION OF RESPONSIBILITY
+Overall Placement Coordinator, Students’ Placement Office, IIT Kanpur Mar’19 — Mar’20
+Lead a 4-tier team of 140 members to facilitate placement and internship for 1100+ and 650+ students respectively
+Leadershi . . _ : . . . 1 pe
+P Represented the students’ interest in all administrative decisions related to recruitment and internship drive in the SPC
+e Single-handedly liaised with 150+ corporate firms comprising of leading BFSI, analytics, software, and core companies
+Initiative e Introduced a limit on the number of student applications to 50, leading to a reduced number of clashes during interviews
+e Revamped the Preparation Portal, providing 100+ interview insights and recruitment procedure of 400+ companies
+e Attained 25.8% YoY growth in number of internship selections, registering 100+ offers on day 1 of the internship drive
+Impact e Recorded the all-time highest number of offers (1084) made to students in the first phase of placement drive 2019-20
+e Confirmed 80+ new firms including international roles such as PayPal, Accenture Japan, BNY Mellon, etc. for FT hiring
+EXTRACURRICULARS
+e Provided academic assistance and mentoring to first year students as an academic mentor of Counselling Service, IITK
+Volunteer Work =e Part of the Science Bus Project, an initiative by the Govt of India to provide rural schools with science experiment setups
+e Volunteered for organizing and conducting the convocation ceremony for the graduating batch 2017-18, IIT Kanpur
+e Served as the PR and Alumni Relations Executive for Stamatics, IITK and contacted various alumni for the newsletter
+Public Relations e Wrote various articles for the Techkriti website and covered competitions held during the fest as a part of the MnP Cell
+e Anchored in the Science and Technology Day in the year 2017 organized by the Students’ Gymkhana, IIT Kanpur
+

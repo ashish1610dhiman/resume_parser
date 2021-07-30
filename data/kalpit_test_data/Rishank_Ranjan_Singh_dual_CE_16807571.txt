@@ -1,0 +1,72 @@
+Rishank Ranj an Singh Email: rishank @iitk.ac.in | xavis20132013@gmail.com
+Department of Civil Engineering Contact: +91-8827544290 | +91-6265854497
+Educational Qualifications
+Year Degree/Certificate Institute Performance
+BTech.- MTech. Dual ‘ : CPI : UG- 7.65/10
+a0 Tb Russel (Specialization in Structural Engineering) Indian Instlinte af Tectmology, Kempur PG- 9.51/10
+2016 Grade 12'* (CBSE) Christ Church Boys’ Senior Sec. School, Jabalpur 92.2%
+2014 Grade 10" (CBSE) Christ Church Boys’ Senior Sec. School, Jabalpur 9 .6/10.0
+Scholastic Achievements
+e Received A* grade for exceptional performance in the course Earthquake Analysis and Design of Structures”
+e Secured All India Rank 6043 in JEE Advanced among the 0.2 million shortlisted candidates
+e Qualified for second level and received Gold Medal in 2013 for International Mathematics Olympiad and National Science Olympiad
+e _Cleared the National Defence Academy (NDA) written exam and reached Conference round in Service Selection Board (SSB).
+Academic Projects and Workshops
+Brain and Cognitive Society Workshop (April 20)
+e To create Deep Learning Models using Tensor Flow for linear regression and image classification.
+e To model the human brain based on Atkinson-Shiffrin's Multi-Store Model of Memory and verify its properties.
+e To create a visual search experiment and test the response of human subjects to the experiment.
+e Performed Image Classification, using Convolution Neural Networks, Dense Neural Network and Transfer Learning.
+e Implemented Reinforcement Learning to find path for a frozen lake problem.
+e
+e
+e
+Objective
+Approach Verified the Serial Position Effect which is the tendency of a person to recall first and last items in a series.
+Designed a model on Feature Integration Theory in which features are identified before objects.
+Created an experiment in PsyToolkit based on “Feature Analysis in Early Vision Evidence From Search Asymmetries”
+Observed the best accuracy in Transfer Learning for 0.001 learning rate at 70% followed by CNN at 60%
+e Average reaction time to identify target increased as number of items increased and validity of the experiment was 99% .
+Behaviour _of Inverted Pendulum (Undergraduate Course Project, Aug’19 — Apr’20, Guide: Prof. S. Mukhopadhyay)
+e To develop FEM programs for solving truss displacement and reactions at nodes.
+Results
+ODIecune e To develop an understanding of G.W. Housner’s paper ‘Behaviour of Inverted Pendulum’ for rigid body rocking.
+e Solved for an axially loaded bar having one element of n nodes and n elements having two nodes using MATLAB
+Approach e Simulated the model for free, sinusoidal and cosinusoidal vibrations in MATLAB
+e Performed the sensitivity analysis upon results obtained by changing the parameters of the model
+Results Verified the results using both analytical and numerical approach and created an efficient code using ode45 solver.
+The model was insensitive at the start but became sensitive to about 0.7%-1.1% after few impacts.
+Other Course Projects:
+e Created an industry oriented Topological map with exhaustive 3-D information which can assist in any project (CE332)
+e Collaborated with a team of six members to design a 3-D prototype of a stamping machine using FUSION360 (TA202)
+e Designed a truss bridge using SAP2000 and designed floors of a shopping centre using AutoCAD. (Science and Technology Council)
+Master Thesis (Aug’20 Present)
+Rocking Motion of Rigid and Flexible Bodies (Thesis Supervisor: Prof. S. Mukhopadhyay, CE, IIT Kanpur)
+e Computational study of rocking motion which models the oscillation and stability criteria of a structure rocking over its base.
+e _ Relaxation of constraints to incorporate uplifting, sliding, ground flexibility to create a general rocking model.
+e Created a Non-Linear SDOF model based on previous models by finding an equivalent stiffness and damping functions of the system.
+e Aims to reduce the computational cost by using regression on data obtained from Winkler, Concentrated Spring and Flexible models.
+Positions of Responsibility
+DESCON Hobby e Part of the team which organised the workshop for undergraduate students.
+Group Secretary e Conducted workshops on SAP2000 and AutoCAD in place of the earlier ice cream stick designing.
+(July 17 -May’18) e _ High overall participation in the DESCON events in Takneek’ 17 considering a newer format.
+Extra-Curricular Activities
+e Represented the Institute Dance Team and were 2" runner-up in Group Dance at “ANT ARAGNI 2017”
+e __ Performed at the Inter Hostel Cultural Competition “GALAXY 18” and were the overall winner of Dance Trophy
+e Designed and constructed a bridge using ice-cream sticks in Takneek 2016 and secured first position.
+e Designed a working model of Rube Goldberg’s Machine which performed a simple task in an indirect way.
+Group Dance
+Technical
+e ~—_- Fourth position.in STRATAZENITH event organized by Indian Game Theory Society DTU, in Techkriti’18.
+Miscellaneous | e French Level-I certified under Foreign Language Program, IIT Kanpur.
+e __Teaching Assistant for the Strength of Material, responsible for creating solutions and grading homework and quizzes.
+Technical Skills
+e §«©Software and Utilities: StaadPro, SAP2000, Autodesk Fusion 360, AutoCAD lI Programming- C, C++, Python, MATLAB,
+Relevant Courses
+Data Structures and Algorithm - Completed an introductory course on Data Structures and Algorithm organised by Demux Academy.
+Coursera MOOCs e —_ Introduction to Electronics, Microeconomics, Computational
+e Data Science in Python by University of Michigan and Numerical Methods, Optimization Methods.
+e Machine Learning with Python by IBM. e Mathematics: Linear Algebra, ODE, PDE, Probability and
+e Deep Learning & Neural Networks with Keras by IBM. Statistics, Stochastic Processes.
+e Sequence Models by Deep Learning.ai e Intro to SQL, Pandas, Data Visualization (Seaborn, Matplotlib)
+
